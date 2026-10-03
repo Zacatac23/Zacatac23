@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Animated terminal: whoami, focus areas and currently exploring cybersecurity" width="620" />
+</p>
+
 # Jonathan Zacarias
 
 Computer Science student at Universidad del Valle de Guatemala (UVG). I build software engineering, systems, networking, and data/AI projects through academic and personal work. Currently exploring cybersecurity.
