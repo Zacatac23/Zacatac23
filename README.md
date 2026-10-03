@@ -84,6 +84,18 @@ The project uses React and Vite on the frontend and Node.js, Express, Prisma, an
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zacatac23/Zacatac23/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zacatac23/Zacatac23/output/github-snake.svg" />
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Zacatac23/Zacatac23/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## Contact
 
 * LinkedIn: [COMPLETAR: URL de LinkedIn]
