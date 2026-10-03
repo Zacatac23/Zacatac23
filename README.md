@@ -103,5 +103,6 @@ The project uses React and Vite on the frontend and Node.js, Express, Prisma, an
 
 ## Contact
 
-* LinkedIn: [COMPLETAR: URL de LinkedIn]
-* Email: [COMPLETAR: correo]
+* LinkedIn: www.linkedin.com/in/jonathan-josue-zacarias-bances-b58450349
+* Email: jonathanzacaeias@gmail.com
+
